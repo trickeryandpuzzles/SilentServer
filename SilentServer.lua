@@ -1,6 +1,7 @@
 -- Name: SilentServer
 
 local system_patterns = {
+  '^Guild',
   '^Delete your WDB',
   '^If you want',
   '^Keep up to',
